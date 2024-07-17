@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "Cardlist",
+        "Categorylist",
+        "Learnblog",
+        "tiktok"
+    ],
+    "prisma-smart-formatter.typescript.defaultFormatter": "esbenp.prettier-vscode"
+}
